@@ -4,7 +4,7 @@
 
 NoSql Mongo db tutorial
 
-- Mongo on Docker
+- Mongo on Docker with replicaset
 - JWT token
 - Gin-gonic package
 
